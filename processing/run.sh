@@ -1,0 +1,1 @@
+curl -f https://raw.githubusercontent.com/aourednik/historical-basemaps/master/geojson/world_900.geojson > world_900.geojson
